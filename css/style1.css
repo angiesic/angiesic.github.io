@@ -1,9 +1,22 @@
 
 body {
-	background-color: #460d50;
+	background-color: #ca9f9f;
 }
 
 
 .image-mel {
-	border: 5px solid #c968da;
+	border: 4px solid black;
+	width: 350px;
+}
+
+.image-mel-column {
+	text-align: center;
+	margin-top: 60px;
+	margin-bottom: 50px;
+}
+
+.text-column {
+	text-align: center;
+	margin-top: 60px;
+	margin-left: 340px;
 }

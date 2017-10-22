@@ -1,15 +1,22 @@
 
 body {
-	background-color: #1f2e80;
+	background-color: #151723;
 }
 
 
 .SocialMedia {
-	color: #2196f3;
-
+	color: #ad2483;
+	font-size: 20px;
 }
 
 
 .images {
 	width: 200px;
+	border: solid #ad2483;
+}
+
+
+.caption {
+	color: #ad2483;
+	font-size: 17px;
 }
